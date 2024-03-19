@@ -1,3 +1,6 @@
 # MIS5470_Supreme_Court_Decisions
 
-hi :)
+:)
+Authors: Hailey Naugle & Brandon Owens
+Course: MIS 5470
+
