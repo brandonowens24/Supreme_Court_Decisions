@@ -2,7 +2,7 @@
 We attempted to create a model utilizing features of Supreme Court Justices, NLP, and the cases themselves to predict the outcomes of major United States Supreme Court Decisions.
 
 ## Results
-[!Results](https://github.com/brandonowens24/MIS5470_Supreme_Court_Decisions/blob/main/images/sc_results.png)
+![Results](https://github.com/brandonowens24/MIS5470_Supreme_Court_Decisions/blob/main/images/sc_results.png)
 
 ## Files
 * [Notebook](https://github.com/brandonowens24/MIS5470_Supreme_Court_Decisions/blob/main/Notebook.ipynb): Contains all analysis for predicting Supreme Court Judgements.
