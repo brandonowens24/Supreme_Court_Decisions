@@ -2,9 +2,9 @@
 We performed data wrangling, manipulation, feature engineering, exploratory data analysis, data visualization, and predictive modelling to gain an understanding to generate predictions using a [Supreme Court Cases Dataset](https://www.kaggle.com/datasets/deepcontractor/supreme-court-judgment-prediction/data) in order to predict the outcome of major Supreme Court decisions. 
 
 ## Instructions (If you'd like to run the analysis yourself)
-There is a file labelled [Notebook.ipynb](https://github.com/brandonowens24/MIS5470_Supreme_Court_Decisions/blob/main/Notebook.ipynb). This Jupyter notebook contains all of the sequential code for running our analysis to be followed! 
-
-Be wary, the grid search method for finding the best parameters for some modelling techniques can be temporally and computationally extensive.
+1. Run [Notebook.ipynb](https://github.com/brandonowens24/MIS5470_Supreme_Court_Decisions/blob/main/Notebook.ipynb).
+This Jupyter notebook contains all of the sequential code for running our analysis to be followed! *Be wary, the grid search method for finding the best parameters for some modelling techniques can be temporally and computationally extensive.*
+3.  Enjoy! :)  
 
 ## Results
 ![Results](https://github.com/brandonowens24/MIS5470_Supreme_Court_Decisions/blob/main/images/sc_results.png)
