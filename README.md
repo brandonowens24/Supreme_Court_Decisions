@@ -1,5 +1,5 @@
 # MIS5470_Supreme_Court_Decisions
-We performed data wrangling, manipulation, feature engineering, exploratory data analysis, data visualization, and predictive modelling to gain an understanding to generate predictions using a [Supreme Court Cases Dataset](https://www.kaggle.com/datasets/deepcontractor/supreme-court-judgment-prediction/data) in order to predict the outcome of major Supreme Court decisions (first party winner: the first party being the appellant). 
+We performed data wrangling, manipulation, feature engineering, exploratory data analysis, data visualization, and predictive modelling to gain an understanding to generate predictions using a [Supreme Court Cases Dataset](https://www.kaggle.com/datasets/deepcontractor/supreme-court-judgment-prediction/data) in order to predict the outcome of major Supreme Court decisions (**first party winner**: the first party being the appellant). 
 
 ## Instructions (If you'd like to run the analysis yourself)
 1. Run [Notebook.ipynb](https://github.com/brandonowens24/MIS5470_Supreme_Court_Decisions/blob/main/Notebook.ipynb).
