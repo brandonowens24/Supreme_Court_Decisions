@@ -1,4 +1,6 @@
-# MIS5470_Supreme_Court_Decisions
+# Supreme_Court_Decisions
+For our MIS 5470: Practical Computing for Data Analytics Course.
+<b></b>
 We performed data wrangling, manipulation, feature engineering, exploratory data analysis, data visualization, and predictive modelling to gain an understanding to generate predictions using a [Supreme Court Cases Dataset](https://www.kaggle.com/datasets/deepcontractor/supreme-court-judgment-prediction/data) in order to predict the outcome of major Supreme Court decisions (**first party winner**: the first party being the appellant). 
 
 View our process and analysis on [YouTube](https://www.youtube.com/watch?v=qdOOZli1tJo)!
